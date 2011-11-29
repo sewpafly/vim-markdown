@@ -14,7 +14,7 @@ Helpful Configs
 
 Some vimrc settings that might help with this:
 
-    autocmd FileType markdown set expandtab tabstop=5
+    autocmd FileType markdown set expandtab tabstop=4 shiftwidth=4
 
 Information
 -----------
