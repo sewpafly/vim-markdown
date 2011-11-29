@@ -1,0 +1,53 @@
+Vim-Markdown
+============
+
+Description
+-----------
+
+[Markdown][] syntax support for [Vim][] Editor.
+
+[Vim-Markdown][script homepage] have a support for snippets. Therefore, it's
+recommended that you use [SnipMate][] plugin.
+
+Helpful Configs
+-----------
+
+Some vimrc settings that might help with this:
+
+    autocmd FileType markdown set expandtab tabstop=5
+
+Information
+-----------
+
+The original [Markdown][] [Vim][] syntax was created by [Ben Williams][].
+
+You maybe contributes to source. So, send a feedback in [issue tracker][].
+
+Vim-Markdown is hosted on following servers:
+
+* [Github (original source)](http://github.com/plasticboy/vim-markdown/)
+* [Github (fork project)](http://github.com/hallison/vim-markdown)
+* [Codaset](http://codaset.com/hallison/vim-markdown)
+
+Visit the [script homepage][] for more information.
+
+Copyright
+---------
+
+Copyright (c) 2010 Hallison Batista <email@hallisonbatista.com>
+
+Copyright (c) 2009 Ben Williams <benw@plasticboy.com>
+
+[markdown]: http://daringfireball.net/projects/markdown/
+  "Markdown syntax project"
+[script homepage]: http://www.vim.org/scripts/script.php?script_id=2882
+  "Markdown Vim Script homepage"
+[vim]: http://www.vim.org
+  "Vim Editor"
+[issue tracker]: http://github.com/hallison/vim-markdown/issues
+  "Vim-Markdown Github Issues"
+[ben williams]: http://plasticboy.com/markdown-vim-mode/
+  "Markdown Vim Mode"
+[snipmate]: http://www.vim.org/scripts/script.php?script_id=2540
+  "SnipMate plugin"
+
